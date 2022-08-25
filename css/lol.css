@@ -1,0 +1,243 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+.logo { 
+height: 43px;
+width: 47px;
+}
+body {
+    background: url(/img/fon.jpg) no-repeat center center/cover;
+    height: 56.5vh;
+    background-attachment: fixed
+}
+.body {
+    height: 1995px;
+    margin: auto;
+    background: whitesmoke;
+    width: 360px
+}
+.box {
+    padding-left: 19px;
+    padding-right: 15px;
+    width: 360px;
+    height: 56.5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+.number {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+    .text1 {
+        font-family: "Roboto Condensed", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    color: #ff9846;
+    letter-spacing: 0em;
+    text-align: center;
+    }
+    .second {
+        height: 45px;
+        width: 87px;
+        margin-bottom: 10.5px;
+    }
+    .time {
+        color: #a4acad;
+        font-family: "Roboto Condensed", sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 15px;
+        letter-spacing: 0em;
+        text-align: center
+    }
+    .start {
+        margin-top: 15.5px;
+    margin-bottom: 15px;
+    justify-content: center;
+    display: flex
+    }
+    .title {
+        font-family: "Roboto Condensed", sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        color: #000000;
+    }
+    .sporting-card {
+        height: 50px;
+        width: 330px;
+        border-radius: 10px;
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: auto;
+        padding-left: 9px;
+        padding-right: 20px;
+        margin-bottom: 15px
+    }
+    .sporting-div {
+        display: flex;
+    align-items: center;
+    }
+    .sporting-text {
+        font-family: "Roboto Condensed", sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+    }
+    .card {
+        margin: auto;
+    width: 330px
+    }
+    .cards {
+        height: 120px;
+    width: 330px;
+    border-radius: 10px;
+    display: flex;
+    padding-left: 18px;
+    background-color: white;
+    margin-bottom: 10px
+    }
+    .first-card {
+        margin-right: 15px;
+    display: flex;
+    align-items: center
+    }
+    .second-card {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box
+    }
+    .salad {
+        font-family: "Roboto Condensed", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 17px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 5px;
+        margin-top: 18px
+    }
+    .sed {
+        font-family: "Roboto Condensed", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 17px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #a4acad;
+        margin-bottom: 18px;
+    }
+    .bottom {
+        display: flex;
+        align-items: center
+
+    }
+    .som {
+        font-family: "Roboto Condensed", sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 23px;
+        letter-spacing: 0em;
+        margin-right: 11px;
+        text-align: left;
+    }
+    .lol {
+        height: 26px;
+    width: 95px;
+    background: #f46d40;
+    border: none;
+    color: #000000;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+    }
+    .lol:hover {
+        background-color:aqua
+    }
+    .more {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 33px;
+        margin-bottom: 20px;
+    }
+    .more-text {
+        margin-right: 10px;
+        font-family: "Roboto Condensed", sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #F46D40;
+        display: flex;
+        align-items: center;
+    }
+.telegram {
+    text-align: center;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #a4acad;
+    line-height: 22px;
+    margin-bottom: 10px;
+    letter-spacing: 0em
+}
+.icon-div {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 31px;
+}
+.phone {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #a4acad;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.adderes {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #a4acad;
+    line-height: 22px;
+    margin-bottom: 31px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.box5 {
+    padding-left: 71px;
+    padding-right: 72px;
+    height: 72px;
+    width: 360px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
